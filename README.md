@@ -1,7 +1,7 @@
 # Welcome to BolehBro 🚀
 
 ## Who We Are
-We are **BolehBro**, a passionate team of **three developers** specializing in **app development** and **web development**. Our mission is to build innovative, scalable, and high-quality digital solutions that empower businesses and users alike.
+We are **BolehBro**, a passionate team of developers specializing in **app development** and **web development**. Our mission is to build innovative, scalable, and high-quality digital solutions that empower businesses and users alike.
 
 ## Meet the Team
 
