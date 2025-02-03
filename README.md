@@ -26,7 +26,7 @@ We are **BolehDev**, a passionate team of **three developers** specializing in *
 ## Our Tech Stack
 - **Frontend:** React, Next.js, Vue.js, Flutter
 - **Backend:** Node.js, Express, .NET Web Core API, Django
-- **Mobile:** Flutter, React Native, Jetpack Compose
+- **Mobile:** Flutter
 - **Database:** PostgreSQL, Firebase, MySQL
 - **DevOps:** Docker, GitHub Actions, AWS
 
