@@ -39,10 +39,10 @@ We are **BolehBro**, a passionate team of developers specializing in **app devel
 We believe in delivering top-tier software solutions with a focus on **user experience**, **performance**, and **scalability**. We strive to bring ideas to life with cutting-edge technology and a user-first approach.
 
 ## Contact Us
-📧 **Email:** contact@bolehbro.com  
-🌐 **Website:** [www.bolehbro.com](https://www.bolehbro.com)  
+📧 **Email:** bolehbro@outlook.com  
+<!-- 🌐 **Website:** [www.bolehbro.com](https://www.bolehbro.com)  
 🐦 **Twitter:** [@bolehbro](https://twitter.com/bolehbro)  
-🔗 **LinkedIn:** [BolehBro](https://linkedin.com/company/bolehbro)  
+🔗 **LinkedIn:** [BolehBro](https://linkedin.com/company/bolehbro)   -->
 
 ---
 🚀 *Let's build something amazing together!*
