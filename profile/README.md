@@ -39,12 +39,16 @@ We are **BolehBro**, a passionate team of developers specializing in **app devel
 We believe in delivering top-tier software solutions with a focus on **user experience**, **performance**, and **scalability**. We strive to bring ideas to life with cutting-edge technology and a user-first approach.
 
 ## Contact Us
-📧 **Email:** bolehbro@outlook.com  
+📧 **Email:** bolehbro@outlook.com
+
+📞 **WhatsApp:**  
+- [Chat with us on WhatsApp (+60 10-917 0269)](https://wa.me/60109170269?text=Hello%20BolehBro!%20I'm%20interested%20in%20your%20services.)  
+- [Chat with us on WhatsApp (+60 19-295 0875)](https://wa.me/60192950875?text=Hello%20BolehBro!%20I'm%20interested%20in%20your%20services.)  
+- [Chat with us on WhatsApp (+60 11-5729 0126)](https://wa.me/601157290126?text=Hello%20BolehBro!%20I'm%20interested%20in%20your%20services.)  
+
 <!-- 🌐 **Website:** [www.bolehbro.com](https://www.bolehbro.com)  
 🐦 **Twitter:** [@bolehbro](https://twitter.com/bolehbro)  
 🔗 **LinkedIn:** [BolehBro](https://linkedin.com/company/bolehbro)   -->
-📞 **WhatsApp:** [Chat with us](https://wa.me/601157290126)
-📞 **WhatsApp:** [Chat with us](https://wa.me/601157290126?text=Hello%20BolehBro!%20I'm%20interested%20in%20your%20services.)
 
 ---
 🚀 *Let's build something amazing together!*
