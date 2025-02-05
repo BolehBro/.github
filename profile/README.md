@@ -44,5 +44,7 @@ We believe in delivering top-tier software solutions with a focus on **user expe
 🐦 **Twitter:** [@bolehbro](https://twitter.com/bolehbro)  
 🔗 **LinkedIn:** [BolehBro](https://linkedin.com/company/bolehbro)   -->
 📞 **WhatsApp:** [Chat with us](https://wa.me/601157290126)
+📞 **WhatsApp:** [Chat with us](https://wa.me/601157290126?text=Hello%20BolehBro!%20I'm%20interested%20in%20your%20services.)
+
 ---
 🚀 *Let's build something amazing together!*
